@@ -1,0 +1,1 @@
+A simple pop up window using tkinter that will always repeatedly appear when user answers "no" to i love you window although it closes saying i love you too after user clicks the yes button. The idea is make a user click on a specific button without having any other choice. The concept shows the phishing attack and account takeovers.
